@@ -31,23 +31,23 @@
     <tr>
       <td align="center">
         <img src="C:\Users\zkley\Downloads\ttlsmr.jpg" height="40" alt="1.png"/>
-        <img src="https://thumbs4.imagebam.com/6c/bc/6e/MESRGXI_t.png" width="90" alt="UPS.png"/><br>
-        <img src="https://thumbs4.imagebam.com/d7/6e/91/MESRJ8U_t.png" height="20" alt="Ec.png"/><br>
-        <strong>UPS</strong><br><strong>BSc.</strong> Computer Science<br>
+        <img src="C:\Users\zkley\Downloads\ttlsmr.jpg" width="90" alt="UPS.png"/><br>
+        <img src="C:\Users\zkley\Downloads\ttlsmr.jpg" height="20" alt="Ec.png"/><br>
+        <strong>Título</strong><strong>SMR<br></strong> Sistemas Microinformáticos y Redes<br><br>
         <img src="https://geps.dev/progress/100" width="105" alt="progress-bar"/>
       </td>
       <td align="center">
-       <img src="https://thumbs4.imagebam.com/b4/6b/77/MESRJT1_t.png" height="40" alt="0.png"/>
+       <img src="https://thumbs4.imagebam.com/d6/0d/e4/MESRJUR_t.png" height="40" alt="0.png"/>
        <img src="https://thumbs4.imagebam.com/d6/0d/e4/MESRJUR_t.png" width="90" alt="TEC.png"/><br>
         <img src="https://thumbs4.imagebam.com/b9/01/da/MESRJ8V_t.png" height="20" alt="Mx.png"/><br>
-        <strong>TEC</strong><br><strong>MSc.</strong> Inf. Technology Mgmt<br>
-        <img src="https://geps.dev/progress/60" width="100" alt="progress-bar"/>
+        <strong>Título Superior</strong><strong>DAW<br></strong> Desarrollo de Aplicaciones Web<br><br>
+        <img src="https://geps.dev/progress/20" width="100" alt="progress-bar"/>
       </td>
       <td align="center">
        <img src="https://thumbs4.imagebam.com/b4/6b/77/MESRJT1_t.png" height="40" alt="0.png"/>
        <img src="https://thumbs4.imagebam.com/5b/76/d8/MESRJL0_t.png" width="90" alt="MIT-C-I.png"/><br>
         <img src="https://thumbs4.imagebam.com/c8/fe/34/MESRJ8W_t.png" height="20" alt="Usa.png"/><br>
-        <strong>MIT</strong><br><strong>PhD.</strong> Computer Science<br>
+        <strong>Conocimiento</strong><strong>IA<br></strong> Inteligencia Artificial<br><br>
         <img src="https://geps.dev/progress/0" width="105" alt="progress-bar"/>
       </td>
     </tr>
