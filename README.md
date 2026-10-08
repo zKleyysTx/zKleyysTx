@@ -30,9 +30,9 @@
   <table style="margin-left: auto; margin-right: auto;">
     <tr>
       <td align="center">
-        <img src="C:\Users\zkley\Downloads\ttlsmr.jpg" height="40" alt="1.png"/>
-        <img src="C:\Users\zkley\Downloads\ttlsmr.jpg" width="90" alt="UPS.png"/><br>
-        <img src="C:\Users\zkley\Downloads\ttlsmr.jpg" height="20" alt="Ec.png"/><br>
+        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCuSKQbn44D9r5kwg0YluhiDeLaA1hyphenhyphen44YF_O1k_WCZPFlYhA_fyJFRpJ8ysC9Mm_d_pHkHmtD45Vgl1DSI21knSaYNDJj_YOcmwrDQThib4_29hlDiw6FgrfOGsTzxwCk-30bwxY624nI/s1600/so-red.jpg" height="40" alt="1.png"/>
+        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCuSKQbn44D9r5kwg0YluhiDeLaA1hyphenhyphen44YF_O1k_WCZPFlYhA_fyJFRpJ8ysC9Mm_d_pHkHmtD45Vgl1DSI21knSaYNDJj_YOcmwrDQThib4_29hlDiw6FgrfOGsTzxwCk-30bwxY624nI/s1600/so-red.jpg" width="150" alt="UPS.png"/><br>
+        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCuSKQbn44D9r5kwg0YluhiDeLaA1hyphenhyphen44YF_O1k_WCZPFlYhA_fyJFRpJ8ysC9Mm_d_pHkHmtD45Vgl1DSI21knSaYNDJj_YOcmwrDQThib4_29hlDiw6FgrfOGsTzxwCk-30bwxY624nI/s1600/so-red.jpg" height="20" alt="Ec.png"/><br>
         <strong>Título</strong><strong>SMR<br></strong> Sistemas Microinformáticos y Redes<br><br>
         <img src="https://geps.dev/progress/100" width="105" alt="progress-bar"/>
       </td>
@@ -44,9 +44,9 @@
         <img src="https://geps.dev/progress/20" width="100" alt="progress-bar"/>
       </td>
       <td align="center">
-       <img src="https://thumbs4.imagebam.com/b4/6b/77/MESRJT1_t.png" height="40" alt="0.png"/>
-       <img src="https://thumbs4.imagebam.com/5b/76/d8/MESRJL0_t.png" width="90" alt="MIT-C-I.png"/><br>
-        <img src="https://thumbs4.imagebam.com/c8/fe/34/MESRJ8W_t.png" height="20" alt="Usa.png"/><br>
+       <img src="https://github.com/user-attachments/assets/93fa026a-92be-4448-9ac7-a62b059b752f" height="50" alt="0.png"/>
+       <img src="https://github.com/user-attachments/assets/93fa026a-92be-4448-9ac7-a62b059b752f" width="170" alt="IA.png"/><br>
+        <img src="https://github.com/user-attachments/assets/93fa026a-92be-4448-9ac7-a62b059b752f" height="30" alt="Usa.png"/><br>
         <strong>Conocimiento</strong><strong>IA<br></strong> Inteligencia Artificial<br><br>
         <img src="https://geps.dev/progress/0" width="105" alt="progress-bar"/>
       </td>
@@ -54,14 +54,14 @@
   </table>
 </div>
 
-<h2>🔥| My contribution streak</h2>
+<h2>🔥| Mi racha de contribuciones</h2>
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=codediaz#version3"/>
   </a>
 </p>
 
-<h2>⭐ | Github Stats </h2>
+<h2>⭐ | Estadísticas de Github </h2>
 
 <div align="center">
 <a href="https://github.com/codediaz">
@@ -69,7 +69,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codediaz&layout=compact&langs_count=7&theme=default"/></a>
 </div>
 
-<h2>🛠️ | Languages, Frameworks, and Tools </h2>
+<h2>🛠️ | Lenguajes, Frameworks, y Tools </h2>
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
@@ -97,8 +97,3 @@
     </tr>
 </table>
 <br>
-
-------
-**Credits :** [codediaz](https://github.com/codediaz)
-
-**Last Edited on:** 04/01/2025
