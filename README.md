@@ -30,16 +30,16 @@
   <table style="margin-left: auto; margin-right: auto;">
     <tr>
       <td align="center">
-        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCuSKQbn44D9r5kwg0YluhiDeLaA1hyphenhyphen44YF_O1k_WCZPFlYhA_fyJFRpJ8ysC9Mm_d_pHkHmtD45Vgl1DSI21knSaYNDJj_YOcmwrDQThib4_29hlDiw6FgrfOGsTzxwCk-30bwxY624nI/s1600/so-red.jpg" height="40" alt="1.png"/>
-        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCuSKQbn44D9r5kwg0YluhiDeLaA1hyphenhyphen44YF_O1k_WCZPFlYhA_fyJFRpJ8ysC9Mm_d_pHkHmtD45Vgl1DSI21knSaYNDJj_YOcmwrDQThib4_29hlDiw6FgrfOGsTzxwCk-30bwxY624nI/s1600/so-red.jpg" width="150" alt="UPS.png"/><br>
-        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCuSKQbn44D9r5kwg0YluhiDeLaA1hyphenhyphen44YF_O1k_WCZPFlYhA_fyJFRpJ8ysC9Mm_d_pHkHmtD45Vgl1DSI21knSaYNDJj_YOcmwrDQThib4_29hlDiw6FgrfOGsTzxwCk-30bwxY624nI/s1600/so-red.jpg" height="20" alt="Ec.png"/><br>
+        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCuSKQbn44D9r5kwg0YluhiDeLaA1hyphenhyphen44YF_O1k_WCZPFlYhA_fyJFRpJ8ysC9Mm_d_pHkHmtD45Vgl1DSI21knSaYNDJj_YOcmwrDQThib4_29hlDiw6FgrfOGsTzxwCk-30bwxY624nI/s1600/so-red.jpg" height="50" alt="1.png"/>
+        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCuSKQbn44D9r5kwg0YluhiDeLaA1hyphenhyphen44YF_O1k_WCZPFlYhA_fyJFRpJ8ysC9Mm_d_pHkHmtD45Vgl1DSI21knSaYNDJj_YOcmwrDQThib4_29hlDiw6FgrfOGsTzxwCk-30bwxY624nI/s1600/so-red.jpg" width="170" alt="UPS.png"/><br>
+        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCuSKQbn44D9r5kwg0YluhiDeLaA1hyphenhyphen44YF_O1k_WCZPFlYhA_fyJFRpJ8ysC9Mm_d_pHkHmtD45Vgl1DSI21knSaYNDJj_YOcmwrDQThib4_29hlDiw6FgrfOGsTzxwCk-30bwxY624nI/s1600/so-red.jpg" height="30" alt="Ec.png"/><br>
         <strong>Título</strong><strong>SMR<br></strong> Sistemas Microinformáticos y Redes<br><br>
         <img src="https://geps.dev/progress/100" width="105" alt="progress-bar"/>
       </td>
       <td align="center">
-       <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgzzeT236RcnILpv-Z-ha_DzDaFByjEGnJM6r6DcShEbcanvfKXVG_DPqd62SNjx5AINpuAyMrCaCjG8AR4-WyXki4kwS2pmR9cgHAXLoR_Ggfc27HNGXDppKPQE6xKDEf332rhqR8YFvER8p_U0EIS_VH0V-jYPB5HhkGdsYuGGDi5TqcZokIanjXSCCA2=s1200" height="40" alt="0.png"/>
-       <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgzzeT236RcnILpv-Z-ha_DzDaFByjEGnJM6r6DcShEbcanvfKXVG_DPqd62SNjx5AINpuAyMrCaCjG8AR4-WyXki4kwS2pmR9cgHAXLoR_Ggfc27HNGXDppKPQE6xKDEf332rhqR8YFvER8p_U0EIS_VH0V-jYPB5HhkGdsYuGGDi5TqcZokIanjXSCCA2=s1200" width="200" alt="TEC.png"/><br>
-        <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgzzeT236RcnILpv-Z-ha_DzDaFByjEGnJM6r6DcShEbcanvfKXVG_DPqd62SNjx5AINpuAyMrCaCjG8AR4-WyXki4kwS2pmR9cgHAXLoR_Ggfc27HNGXDppKPQE6xKDEf332rhqR8YFvER8p_U0EIS_VH0V-jYPB5HhkGdsYuGGDi5TqcZokIanjXSCCA2=s1200" height="20" alt="Mx.png"/><br>
+       <img src="https://github.com/user-attachments/assets/714da856-c966-42e3-bf2f-4867c1fac865" height="50" alt="1.png"/>
+       <img src="https://github.com/user-attachments/assets/714da856-c966-42e3-bf2f-4867c1fac865" width="170" alt="TEC.png"/><br>
+        <img src="https://github.com/user-attachments/assets/714da856-c966-42e3-bf2f-4867c1fac865" height="30" alt="Mx.png"/><br>
         <strong>Título Superior</strong><strong>DAW<br></strong> Desarrollo de Aplicaciones Web<br><br>
         <img src="https://geps.dev/progress/20" width="100" alt="progress-bar"/>
       </td>
