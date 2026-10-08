@@ -37,9 +37,9 @@
         <img src="https://geps.dev/progress/100" width="105" alt="progress-bar"/>
       </td>
       <td align="center">
-       <img src="https://thumbs4.imagebam.com/d6/0d/e4/MESRJUR_t.png" height="40" alt="0.png"/>
-       <img src="https://thumbs4.imagebam.com/d6/0d/e4/MESRJUR_t.png" width="90" alt="TEC.png"/><br>
-        <img src="https://thumbs4.imagebam.com/b9/01/da/MESRJ8V_t.png" height="20" alt="Mx.png"/><br>
+       <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgzzeT236RcnILpv-Z-ha_DzDaFByjEGnJM6r6DcShEbcanvfKXVG_DPqd62SNjx5AINpuAyMrCaCjG8AR4-WyXki4kwS2pmR9cgHAXLoR_Ggfc27HNGXDppKPQE6xKDEf332rhqR8YFvER8p_U0EIS_VH0V-jYPB5HhkGdsYuGGDi5TqcZokIanjXSCCA2=s1200" height="40" alt="0.png"/>
+       <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgzzeT236RcnILpv-Z-ha_DzDaFByjEGnJM6r6DcShEbcanvfKXVG_DPqd62SNjx5AINpuAyMrCaCjG8AR4-WyXki4kwS2pmR9cgHAXLoR_Ggfc27HNGXDppKPQE6xKDEf332rhqR8YFvER8p_U0EIS_VH0V-jYPB5HhkGdsYuGGDi5TqcZokIanjXSCCA2=s1200" width="200" alt="TEC.png"/><br>
+        <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgzzeT236RcnILpv-Z-ha_DzDaFByjEGnJM6r6DcShEbcanvfKXVG_DPqd62SNjx5AINpuAyMrCaCjG8AR4-WyXki4kwS2pmR9cgHAXLoR_Ggfc27HNGXDppKPQE6xKDEf332rhqR8YFvER8p_U0EIS_VH0V-jYPB5HhkGdsYuGGDi5TqcZokIanjXSCCA2=s1200" height="20" alt="Mx.png"/><br>
         <strong>Título Superior</strong><strong>DAW<br></strong> Desarrollo de Aplicaciones Web<br><br>
         <img src="https://geps.dev/progress/20" width="100" alt="progress-bar"/>
       </td>
